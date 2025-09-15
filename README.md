@@ -52,5 +52,3 @@ I am a **Software Engineer (Backend)** at [Pipeline Capital](https://pipeline.ca
 </p>
 
 ---
-
-> ✨ Always learning, improving, and building useful things.
