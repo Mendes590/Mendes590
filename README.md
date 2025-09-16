@@ -42,7 +42,7 @@ I am a **Software Engineer (Backend)** at [Pipeline Capital](https://pipeline.ca
 
 <p>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/matheus-mendes/" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-mendes-machado/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" alt="LinkedIn" title="LinkedIn"/>
   </a>
   <!-- Gmail -->
