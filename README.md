@@ -1,6 +1,6 @@
 # Hello 👋 I'm Matheus Mendes
 
-I am a **Software Engineer (Backend)** at [TOTVS](https://www.totvs.com/).
+I am a **Data Analyst** at [TOTVS](https://www.totvs.com/).
 
 ---
 
