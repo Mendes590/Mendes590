@@ -41,7 +41,7 @@ I work at the intersection of **data, commercial strategy and customer governanc
     </td>
     <td width="50%" valign="top">
       <h3>🎯 Decision Support</h3>
-      <p>Creation of KPIs, reports, dashboards and analytical views for commercial teams and leadership.</p>
+      <p>Creation of KPIs, reports, dashboards and analytical views for leadership.</p>
     </td>
   </tr>
 </table>
